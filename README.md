@@ -2,7 +2,7 @@
 
 Description:
 
-Technologies:
+Technologies: <br>
 Python
 Python Libraries: Pandas, Numpy, Matplotlib, Seaborn. Scipy
 Tableau 
