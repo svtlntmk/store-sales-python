@@ -3,6 +3,6 @@
 Description:
 
 Technologies: <br>
-Python
-Python Libraries: Pandas, Numpy, Matplotlib, Seaborn. Scipy
-Tableau 
+Python <br>
+Python Libraries: Pandas, Numpy, Matplotlib, Seaborn. Scipy <br>
+Tableau <br>
