@@ -5,12 +5,14 @@
 <br>
 
 <h3> Technologies:</h3>
-Python <br>
-Python Libraries: Pandas, Numpy, Matplotlib, Seaborn. Scipy <br>
-Tableau <br>
-
 <ul>
   <li>Python</li>
   <li>Python Libraries: Pandas, Numpy, Matplotlib, Seaborn. Scipy</li>
   <li>Tableau</li>
 </ul>  
+<br>
+<h3>Dataset:</h3>
+[<a href="https://docs.google.com/spreadsheets/d/1oV3Gb00vtJHoV8ufwi3A7Jg-SgCKrbXJ/edit?usp=drive_link&ouid=103010447477087553966&rtpof=true&sd=true">LINK</a>]<br>
+
+<h3>Dashboard:</h3>
+[<a href="https://public.tableau.com/app/profile/svitlana.tomko/viz/Salesmetrics_17101096396020/Salesmetrics">LINK</a>]<br>
