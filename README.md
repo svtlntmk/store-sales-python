@@ -13,6 +13,7 @@
 <br>
 <h3>Dataset:</h3>
 [<a href="https://docs.google.com/spreadsheets/d/1oV3Gb00vtJHoV8ufwi3A7Jg-SgCKrbXJ/edit?usp=drive_link&ouid=103010447477087553966&rtpof=true&sd=true">LINK</a>]<br>
-
+<br>
 <h3>Dashboard:</h3>
 [<a href="https://public.tableau.com/app/profile/svitlana.tomko/viz/Salesmetrics_17101096396020/Salesmetrics">LINK</a>]<br>
+![image](https://github.com/svtlntmk/store-sales-python/assets/149253423/2775450b-4a13-4fb7-ba39-0df27f85c8bc)
