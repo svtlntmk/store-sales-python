@@ -1,4 +1,4 @@
-# store-sales-python
+# Grocery store sales analysis
 
 <h3> Description:</h3>
 <p>This project explores the sales of chain stores located in four countries in the Asian region. The data analysis is divided into 3 parts and relates to store assortment, demographics and customer behavior.</p>
