@@ -6,7 +6,7 @@
 <h3> Technologies:</h3>
 <ul>
   <li>Python</li>
-  <li>Python Libraries: Pandas, Numpy, Matplotlib, Seaborn. Scipy</li>
+  <li>Python Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scipy</li>
   <li>Tableau</li>
 </ul>  
 
