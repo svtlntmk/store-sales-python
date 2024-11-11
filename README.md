@@ -51,6 +51,7 @@
 
 
 <h3>Dashboard:</h3>
-[<a href="https://public.tableau.com/app/profile/svitlana.tomko/viz/Salesmetrics_17101096396020/Salesmetrics">LINK</a>]<br>
+[<a href="https://public.tableau.com/app/profile/svitlana.tomko/viz/Salesmetrics_17101096396020/Salesmetrics">LINK</a>]
+<br><br>
 
 ![Sales Dashboard](https://github.com/svtlntmk/store-sales-python/blob/main/sales-dashboard.png)
