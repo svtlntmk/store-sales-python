@@ -1,7 +1,7 @@
 # Grocery store sales analysis
 
 <h3> Description:</h3>
-<p>This project explores the sales of chain stores located in four countries in the Asian region. The data analysis is divided into 3 parts and relates to store assortment, demographics and customer behavior.</p>
+<p>The company's product assortment is a critical driver of its overall financial performance, profitability, and market competitiveness. However, with a vast and rapidly evolving product catalog, the organization lacks a comprehensive understanding of the relative strengths and weaknesses of its product categories, best-selling items, pricing strategies, and supply chain dynamics. Without these insights, the company is hindered in its ability to make informed decisions to optimize its product portfolio, respond to changing customer demands, and maximize long-term growth and profitability. Conducting an in-depth analysis of the company's product data is essential to uncover actionable recommendations that can guide the strategic development of the product assortment and enhance the organization's competitive position in the marketplace.</p>
 
 <h3> Technologies:</h3>
 <ul>
